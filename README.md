@@ -59,24 +59,24 @@ I enjoy working with data to identify patterns, improve processes, and support d
 
 ## 📊 Projects
 
-### 🚴 Cyclistic Bike Share Analysis
+###  Cyclistic Bike Share Analysis
 - Cleaned and analyzed large datasets using SQL and R  
 - Built a Tableau dashboard to visualize user behavior  
 - Identified trends to support marketing strategies  
 
-### 🏥 NHS Waiting Times Analysis
+###  NHS Waiting Times Analysis
 - Used Python for data cleaning and KPI creation  
 - Built Tableau dashboards to analyze healthcare performance  
 - Identified long-wait patterns and capacity issues  
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🥇 Google Data Analytics Professional Certificate (Coursera)  
-- 📊 Data Analysis with R Programming (Google)  
-- 📈 Foundations: Data, Data, Everywhere (Google)  
-- 🐍 Scientific Computing with Python (freeCodeCamp)  
+-  Google Data Analytics Professional Certificate (Coursera)  
+-  Data Analysis with R Programming (Google)  
+-  Foundations: Data, Data, Everywhere (Google)  
+-  Scientific Computing with Python (freeCodeCamp)  
 
 ---
 
