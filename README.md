@@ -1,97 +1,89 @@
-# 👋 Hi, I'm Jeewan Gurung
+#  Hi, I'm Jeewan Gurung  
 
-🎯 Aspiring Data Analyst | IT Support Analyst | Turning Data into Insights  
-
----
-
-## 🚀 About Me
-
-I’m an IT Support Analyst with a BSc in Information Technology, currently transitioning into Data Analytics. I have hands-on experience supporting business-critical systems while developing strong analytical skills in SQL, Excel, Tableau, R, and Python.
-
-I enjoy working with data to identify patterns, improve processes, and support data-driven decision-making. My IT background gives me a strong foundation in problem-solving, troubleshooting, and working with real-world operational data.
+ **Aspiring Data Analyst | Financial Analysis | SQL | Tableau | Excel**
 
 ---
 
-## 🧠 What I'm Working On
+## About Me
 
-- Building data analytics projects using **SQL, Python, R, and Tableau**
-- Creating interactive dashboards and visualizations  
-- Improving data cleaning and transformation workflows  
-- Strengthening end-to-end data analysis skills  
+I’m an analytical graduate with a BSc in Information Technology, currently transitioning into data and financial analysis. I have hands-on experience working with data using SQL, Excel, Tableau, and Python to extract insights, analyse trends, and support data-driven decision-making.
+
+I’m particularly interested in **financial analysis, revenue performance, and business insights**, and enjoy using data to identify patterns, evaluate performance, and support strategic decisions.
 
 ---
 
-## 🌱 Currently Learning
+## What I'm Working On
 
-- Google Data Analytics Professional Certificate  
+- Building data and **financial analysis projects** using SQL, Python, and Tableau  
+- Analysing **revenue trends, KPIs, and performance metrics**  
+- Developing dashboards to support **business and decision-making insights**  
+- Strengthening end-to-end data analysis workflows  
+
+---
+
+##  Currently Learning
+
 - Advanced SQL & Data Querying  
 - Python for Data Analysis (Pandas, NumPy)  
-- Data Visualization Best Practices  
+- Financial analysis concepts (KPIs, revenue analysis, performance metrics)  
+- Data visualisation best practices  
 
 ---
 
-## 🤝 Looking to Collaborate On
+##  Tech Stack
 
-- Data analysis projects  
-- Dashboard development (Tableau / Power BI)  
-- Real-world datasets and case studies  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools:**
+### Languages & Tools
 - SQL  
-- Python  
+- Python (learning & improving)  
 - R  
 - Excel  
 
-**Data Visualization:**
+### Data Visualisation
 - Tableau  
 
-**Other Skills:**
-- Data Cleaning & Preparation  
+### Core Skills
 - Data Analysis & Reporting  
-- Troubleshooting & IT Support  
-- Microsoft 365  
+- KPI & Performance Analysis  
+- Data Cleaning & Transformation  
+- Problem Solving & Analytical Thinking  
 
 ---
 
-## 📊 Projects
+##  Projects
 
-###  Cyclistic Bike Share Analysis
-- Cleaned and analyzed large datasets using SQL and R  
-- Built a Tableau dashboard to visualize user behavior  
-- Identified trends to support marketing strategies  
-
-###  NHS Waiting Times Analysis
-- Used Python for data cleaning and KPI creation  
-- Built Tableau dashboards to analyze healthcare performance  
-- Identified long-wait patterns and capacity issues  
+###  CRM Sales & Revenue Performance Analysis
+- Analysed CRM data to identify revenue trends, customer performance, and key business drivers  
+- Developed dashboards and KPIs to evaluate sales performance and support decision-making  
+- 🔗 [View Project](https://github.com/Jeewan-JG/CRM-Insights-Sales-Revenue-Performance-Analysis)
 
 ---
 
-## Certifications
-
--  Google Data Analytics Professional Certificate (Coursera)  
--  Data Analysis with R Programming (Google)  
--  Foundations: Data, Data, Everywhere (Google)  
--  Scientific Computing with Python (freeCodeCamp)  
+### Cyclistic Bike Share Analysis
+- Analysed large datasets using SQL and R to identify trends and user behaviour  
+- Built Tableau dashboards to generate insights and support data-driven decisions  
+- 🔗 [View Project](https://github.com/Jeewan-JG/casual-riders-to-members-analysis)
 
 ---
 
-## 💬 Ask Me About
+### NHS Waiting Times Analysis
+- Conducted quantitative analysis using Python to identify trends, inefficiencies, and performance gaps  
+- Developed KPIs and built Tableau dashboards to evaluate organisational performance and waiting time patterns  
+- 🔗 [View Project](https://github.com/Jeewan-JG/NHS_Waiting_Time_Analysis)
 
-- SQL queries & data extraction  
+---
+
+## Ask Me About
+
+- SQL queries & data analysis  
+- Tableau dashboards & visualisation  
+- Revenue and performance analysis  
 - Data cleaning & transformation  
-- Tableau dashboards  
-- IT systems & troubleshooting  
 
 ---
 
 ## ⚡ Fun Fact
 
-I combine IT support and data analytics—so I don’t just fix problems, I analyze data to prevent them.
+I combine technical problem-solving with data analysis—so I don’t just solve issues, I use data to understand and prevent them.
 
 ---
 
@@ -99,5 +91,3 @@ I combine IT support and data analytics—so I don’t just fix problems, I anal
 
 - LinkedIn: https://www.linkedin.com/in/jg936  
 - Email: jeewangurung35@gmail.com  
-
----
