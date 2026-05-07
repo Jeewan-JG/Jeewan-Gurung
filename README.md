@@ -57,21 +57,24 @@ I enjoy working with large datasets, exploring user behaviour, and using data to
 ###  CRM Sales & Revenue Performance Analysis
 - Analysed CRM data to identify revenue trends, customer performance, and key business drivers  
 - Developed dashboards and KPIs to evaluate sales performance and support decision-making  
-- 🔗 [View Project](https://github.com/Jeewan-JG/CRM-Insights-Sales-Revenue-Performance-Analysis)
+- [GitHub Repository](https://github.com/Jeewan-JG/CRM-Insights-Sales-Revenue-Performance-Analysis)
+- [Live Dashboard / Website](https://jeewan-jg.github.io/CRM-Insights-Sales-Revenue-Performance-Analysis/)
 
 ---
 
 ### Cyclistic Bike Share Analysis
 - Analysed large datasets using SQL and R to identify trends and user behaviour  
 - Built Tableau dashboards to generate insights and support data-driven decisions  
-- 🔗 [View Project](https://github.com/Jeewan-JG/casual-riders-to-members-analysis)
+- [GitHub Repository](https://github.com/Jeewan-JG/casual-riders-to-members-analysis)
+- [Live Dashboard / Website](https://jeewan-jg.github.io/casual-riders-to-members-analysis/)
 
 ---
 
 ### NHS Waiting Times Analysis
 - Conducted quantitative analysis using Python to identify trends, inefficiencies, and performance gaps  
 - Developed KPIs and built Tableau dashboards to evaluate organisational performance and waiting time patterns  
-- 🔗 [View Project](https://github.com/Jeewan-JG/NHS_Waiting_Time_Analysis)
+- [GitHub Repository](https://github.com/Jeewan-JG/NHS_Waiting_Time_Analysis)
+- [Live Dashboard / Website](https://jeewan-jg.github.io/NHS_Waiting_Time_Analysis/)
 
 ---
 ### Data Analytics Knowledge Base
@@ -79,7 +82,8 @@ I enjoy working with large datasets, exploring user behaviour, and using data to
 - Built a structured data analytics knowledge repository covering SQL, Python, Tableau, Excel, and core analytical concepts
 - Organised practical notes, workflows, and learning resources to strengthen data analysis, reporting, and problem-solving skills
 - Documented best practices for data cleaning, querying, visualisation, and analytical thinking
-- 🔗 [View Project](https://github.com/Jeewan-JG/Data-Analytics-Knowledge)
+- [GitHub Repository](https://github.com/Jeewan-JG/Data-Analytics-Knowledge)
+- [Live Website](https://jeewan-jg.github.io/Data-Analytics-Knowledge/)
 ---
 ## Ask Me About
 
