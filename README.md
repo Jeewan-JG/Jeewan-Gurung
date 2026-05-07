@@ -1,32 +1,35 @@
 #  Hi, I'm Jeewan Gurung  
 
- **Aspiring Data Analyst | Financial Analysis | SQL | Tableau | Excel**
+ **Aspiring Data Analyst | SQL | Python | Tableau | Data Investigation & Insights**
 
 ---
 
 ## About Me
 
-I’m an analytical graduate with a BSc in Information Technology, currently transitioning into data and financial analysis. I have hands-on experience working with data using SQL, Excel, Tableau, and Python to extract insights, analyse trends, and support data-driven decision-making.
+I’m an analytical graduate with a BSc in Information Technology, passionate about using data to solve business and operational problems. I have hands-on experience working with SQL, Python, Tableau, and Excel to clean data, analyse trends, build dashboards, and generate actionable insights from complex datasets.
 
-I’m particularly interested in **financial analysis, revenue performance, and business insights**, and enjoy using data to identify patterns, evaluate performance, and support strategic decisions.
+Through projects in healthcare and customer analytics, I’ve developed strong problem-solving skills and an investigative mindset, with experience identifying patterns, monitoring KPIs, and presenting insights to support data-driven decision-making.
+
+I enjoy working with large datasets, exploring user behaviour, and using data to improve processes, detect anomalies, and support business performance.
 
 ---
 
 ## What I'm Working On
 
-- Building data and **financial analysis projects** using SQL, Python, and Tableau  
-- Analysing **revenue trends, KPIs, and performance metrics**  
-- Developing dashboards to support **business and decision-making insights**  
-- Strengthening end-to-end data analysis workflows  
+- Building data analysis projects using SQL, Python, Tableau, and Excel
+- Analysing datasets to identify trends, anomalies, and actionable business insights
+- Developing dashboards and reports to support data-driven decision-making
+- Strengthening end-to-end data analysis workflows, including data cleaning and visualisation
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
-- Advanced SQL & Data Querying  
-- Python for Data Analysis (Pandas, NumPy)  
-- Financial analysis concepts (KPIs, revenue analysis, performance metrics)  
-- Data visualisation best practices  
+- Advanced SQL and query optimisation
+- Python for data analysis and automation (Pandas, NumPy)
+- Data investigation techniques and analytical problem-solving
+- Data visualisation best practices and dashboard design
+- AI-assisted workflows and modern analytics tools
 
 ---
 
