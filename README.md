@@ -74,7 +74,13 @@ I enjoy working with large datasets, exploring user behaviour, and using data to
 - 🔗 [View Project](https://github.com/Jeewan-JG/NHS_Waiting_Time_Analysis)
 
 ---
+### Data Analytics Knowledge Base
 
+- Built a structured data analytics knowledge repository covering SQL, Python, Tableau, Excel, and core analytical concepts
+- Organised practical notes, workflows, and learning resources to strengthen data analysis, reporting, and problem-solving skills
+- Documented best practices for data cleaning, querying, visualisation, and analytical thinking
+- 🔗 [View Project](https://github.com/Jeewan-JG/Data-Analytics-Knowledge)
+---
 ## Ask Me About
 
 - SQL queries & data analysis  
